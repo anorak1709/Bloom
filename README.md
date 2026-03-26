@@ -357,17 +357,3 @@ Contributions are welcome! Whether it's a bug fix, new feature, or documentation
 5. Open a Pull Request
 
 ---
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  <strong>Built with math, not magic.</strong><br/>
-  <sub>Bloom Analytics — Democratizing quantitative finance.</sub><br/><br/>
-  <a href="https://github.com/anorak1709/delhi-dih-buggers">GitHub</a> ·
-  <a href="https://github.com/anorak1709/delhi-dih-buggers/issues">Report Bug</a> ·
-  <a href="https://github.com/anorak1709/delhi-dih-buggers/issues">Request Feature</a>
-</p>
